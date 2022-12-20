@@ -1,4 +1,4 @@
-![image](https://github.com/EMJAKSOLUTIONS/EMJAKSOLUTIONS/blob/bcd87a3151cf044f28c94ccb0bc9f5efcfbaf9fd/Logo.jpg)
+![image](https://github.com/EMJAKSOLUTIONS/EMJAKSOLUTIONS/blob/main/Icono_EMJAK.svg)
 
 
 ### Hi there 👋
